@@ -11,8 +11,8 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.11"
           cache: pip
@@ -27,7 +27,7 @@ jobs:
         shell: pwsh
         run: (Get-FileHash dist\rietesd-demo.exe -Algorithm SHA256).Hash + "  rietesd-demo.exe" | Out-File dist\SHA256SUMS.txt -Encoding ascii
       - name: Publish
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: |
             dist/rietesd-demo.exe

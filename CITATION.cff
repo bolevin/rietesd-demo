@@ -6,8 +6,8 @@ abstract: >-
   Rietveld refinements (Berar & Lelann), with the Durbin-Watson statistic and
   agreement factors. Demonstration version of the RietESD program.
 type: software
-version: 0.1.0
-date-released: "2026-11-14"
+version: 0.1.1
+date-released: "2026-11-15"
 license: GPL-3.0-or-later
 repository-code: "https://github.com/bolevin/rietesd-demo"
 authors:

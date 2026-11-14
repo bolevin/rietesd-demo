@@ -6,7 +6,7 @@ enforced by a test, the test is named — a statement here that no test holds is
 
 | | |
 |---|---|
-| Version described | 0.1.0 |
+| Version described | 0.1.1 |
 | Audience | developers, reviewers, anyone judging how the program is built |
 
 ---

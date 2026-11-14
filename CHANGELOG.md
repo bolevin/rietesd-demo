@@ -3,6 +3,14 @@
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions follow
 [Semantic Versioning](https://semver.org/).
 
+## [0.1.1] - 2026-11-15
+
+### Changed
+
+- The authors are given as A. A. Levin and @bolevin in the README, the citation and the
+  About text of the program.
+- The workflows use actions that run on Node 24.
+
 ## [0.1.0] - 2026-11-14
 
 First version.
