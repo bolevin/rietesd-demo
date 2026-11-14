@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If this software or the method contributed to your work, please cite the method paper below."
+title: "RietESD Demo"
+abstract: >-
+  Corrects estimated standard deviations underestimated by serial correlation in
+  Rietveld refinements (Berar & Lelann), with the Durbin-Watson statistic and
+  agreement factors. Demonstration version of the RietESD program.
+type: software
+version: 0.1.0
+date-released: "2026-11-14"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/bolevin/rietesd-demo"
+authors:
+  - family-names: Levin
+    given-names: "Boris A."
+  - family-names: Levin
+    given-names: "Aleksandr A."
+keywords:
+  - Rietveld refinement
+  - powder diffraction
+  - estimated standard deviation
+  - serial correlation
+  - Durbin-Watson statistic
+preferred-citation:
+  type: report
+  title: "Program RietESD for correction of estimated standard deviations obtained in Rietveld-refinement programs"
+  authors:
+    - family-names: Levin
+      given-names: "A. A."
+  year: 2022
+  doi: "10.13140/RG.2.2.27758.69444"
+  notes: "Preprint"

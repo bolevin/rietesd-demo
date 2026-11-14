@@ -1,0 +1,35 @@
+{
+  "reference": "RietESD 15.06 (full program)",
+  "note": "The full program rounds its factors to single precision, so the values carry about seven significant digits.",
+  "pattern_sha256": "74a05ebbed2e782ff9c82ae0ab05de8a5e5c73485f8ef60c02eebce7a23ff50f",
+  "n_parameters": 27,
+  "n_constraints": 2,
+  "cases": {
+    "1/Yobs": {
+      "n_points": 5501,
+      "durbin_watson": 1.0189410593745396,
+      "critical_value": 1.9254517445214665,
+      "esd_coefficient": 2.2830275817044754,
+      "r_wp": 3.598257064819336,
+      "r_exp": 2.50118088722229,
+      "gof": 1.438623309135437,
+      "r_p": 2.5613813400268555,
+      "r_wp_bkg": 12.559514045715332,
+      "r_exp_bkg": 8.730231285095215,
+      "r_p_bkg": 17.756086349487305
+    },
+    "1/sqrt(Yobs)": {
+      "n_points": 5501,
+      "durbin_watson": 0.6440055573089178,
+      "critical_value": 1.9254517445214665,
+      "esd_coefficient": 2.6556145316872772,
+      "r_wp": 4.29196834564209,
+      "r_exp": 0.3617212474346161,
+      "gof": 11.865403175354004,
+      "r_p": 2.5613813400268555,
+      "r_wp_bkg": 9.890350341796875,
+      "r_exp_bkg": 0.8335452675819397,
+      "r_p_bkg": 17.756086349487305
+    }
+  }
+}
