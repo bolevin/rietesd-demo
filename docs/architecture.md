@@ -28,8 +28,8 @@ RietESD Demo reads a refined pattern and reports
 - the **coefficient** by which the e.s.d.'s have to be multiplied (Bérar & Lelann, 1991);
 - the **agreement factors** Rwp, Rexp, Rp and GoF, as refined and background-corrected.
 
-It is a demonstration version of the RietESD program by Aleksandr A. Levin and
-Boris A. Levin. The full program is a separate code base; the demo shares no code with it
+It is a demonstration version of the RietESD program by A. A. Levin, with a
+Windows edition by bolevin. The full program is a separate code base; the demo shares no code with it
 and is checked against it (section 8.1).
 
 ### 1.2 Quality goals, in priority order

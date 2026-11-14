@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = "GPL-3.0-or-later"
 license-files = ["LICENSE"]
-authors = [{ name = "Boris A. Levin" }, { name = "Aleksandr A. Levin" }]
+authors = [{ name = "bolevin" }, { name = "A. A. Levin" }]
 keywords = ["Rietveld", "powder diffraction", "XRD", "crystallography", "e.s.d.", "Durbin-Watson"]
 classifiers = [
   "Development Status :: 4 - Beta",

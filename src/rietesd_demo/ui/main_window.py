@@ -71,8 +71,8 @@ This program reads a refined powder pattern and reports
   - the agreement factors Rwp, Rexp, Rp and GoF, as refined and
     background-corrected.
 
-It is a demonstration version of RietESD by Aleksandr A. Levin and Boris A. Levin
-(method and original program: A. A. Levin, DOI 10.13140/RG.2.2.27758.69444).
+It is a demonstration version of RietESD (method and original program:
+A. A. Levin, DOI 10.13140/RG.2.2.27758.69444; Windows edition: bolevin).
 The full program adds batch processing, Bragg factors, angular corrections,
 intensity modeling and further families of agreement factors.
 

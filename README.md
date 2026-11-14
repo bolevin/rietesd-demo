@@ -12,8 +12,8 @@ correlation and tells you by how much the estimated standard deviations have to 
 
 ![RietESD Demo, light theme](docs/img/demo-light.png)
 
-This is a demonstration version of **RietESD**, a program by Aleksandr A. Levin and
-Boris A. Levin. It is small on purpose — one input format, one screen — and is meant to
+This is a demonstration version of **RietESD**, a program by A. A. Levin with a Windows
+edition by [@bolevin](https://github.com/bolevin). It is small on purpose — one input format, one screen — and is meant to
 show two things: what the method does, and how the software around it is built.
 
 ## The problem it solves
@@ -196,7 +196,7 @@ Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
 
 ## Authors and licence
 
-Aleksandr A. Levin — method, original program. Boris A. Levin — Windows edition, this demo.
+A. A. Levin — method, original program. [@bolevin](https://github.com/bolevin) — Windows edition, this demo.
 
 Free software under the **GNU General Public License, version 3 or later**; see
 [`LICENSE`](LICENSE). The interface is built on QFluentWidgets, which is itself GPL-3.0 —

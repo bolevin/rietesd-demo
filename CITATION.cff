@@ -11,10 +11,9 @@ date-released: "2026-11-14"
 license: GPL-3.0-or-later
 repository-code: "https://github.com/bolevin/rietesd-demo"
 authors:
+  - alias: bolevin
   - family-names: Levin
-    given-names: "Boris A."
-  - family-names: Levin
-    given-names: "Aleksandr A."
+    given-names: "A. A."
 keywords:
   - Rietveld refinement
   - powder diffraction
